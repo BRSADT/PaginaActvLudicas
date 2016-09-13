@@ -7,9 +7,24 @@
 p {
   margin-bottom: 20px;
 }
+div.primer{
 
+   float: right;
+   overflow: scroll;
 
+   background-image: url("Imagen2.png");
+    
 
+}
+
+div.grad-nex {
+    display: block;
+    height: 2px;
+    width: 100%;
+  
+	 background-image: url("linea.png");
+
+}
 
 header {
   background: rgba(0,0,0,.80);

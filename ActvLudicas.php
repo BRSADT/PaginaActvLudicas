@@ -7,7 +7,13 @@
 
 <body>
 
+
+
 <header>
+<div class="grad-nex">
+
+<p>haga paro profe</p>
+</div>
 	<nav>
 		<ul>
 			<li><a href="#">Inicio</a></li>
