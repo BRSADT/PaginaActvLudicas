@@ -12,7 +12,7 @@
 <header>
 <div class="grad-nex">
 
-<p>haga paro profe</p>
+<p>haga                            paro                                  profe :'v</p>
 </div>
 	<nav>
 		<ul>
