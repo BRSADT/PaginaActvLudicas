@@ -10,9 +10,9 @@
 
 
 <header>
-
+<span class="classy"><INPUT type="text" placeholder="Contraseña"></span>
 <span class="classy"><input type="email" placeholder="Correo Electronico"></span>
-<span class="classy"><<INPUT type="text" STYLE="color: #FFFFFF; font-family: Verdana; font-weight: bold; font-size: 12px; background-color: #72A4D2;" size="10" maxlength="30">></span>
+
 <p> </p>
 
 

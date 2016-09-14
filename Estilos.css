@@ -71,37 +71,51 @@ nav ul li a {
   color: pink;
 }
 ::-webkit-input-placeholder {
-   color: red;
+   color: white;
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: red;  
+   color: white;  
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: red;  
+   color: white;  
 }
 
 :-ms-input-placeholder {  
-   color: red;  
+   color: white;  
 }
-::-webkit-input-placeholder { /* WebKit browsers */
-     opacity: 1 !important;
-}
+
 
 input[type="text"], textarea {
-
-  background-color : #d1d1d1; 
+color:white;
+  background-color : rgba(0,0,0,.80);
 
 }
+input[type="email"], textarea {
+color:white;
+  background-color : rgba(0,0,0,.80);
 
+}
+input {
+    -webkit-appearance: textfield;
+    
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    cursor: auto;
+    padding: 0px;
+    border-width: 0px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
 span.classy {
 
 border: 2px solid #bebde9;
 color:black;
 float: right;
-margin-top: 5px;
-margin-right:20px;
+margin-top: 10px;
+margin-right:80px;
 }
 
 
