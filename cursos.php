@@ -10,13 +10,14 @@
 
 
 <header>
+<div class="ingresar" 
+<p> holo </p>
 
-<span class="classy"><input type="email" placeholder="Correo Electronico"></span>
-<span class="classy"><<INPUT type="text" STYLE="color: #FFFFFF; font-family: Verdana; font-weight: bold; font-size: 12px; background-color: #72A4D2;" size="10" maxlength="30">></span>
-<p> </p>
-
-
+</div>
 <div class="grad-nex">
+
+
+<p>haga                            paro                                  profe :'v</p>
 </div>
 	<nav>
 		<ul>
@@ -24,7 +25,7 @@
 	
 			<li><a  href="#" class="hvr-underline-from-right" >Inicio</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Tutoriales</a></li>
-			<li><a href="cursos.php" class="hvr-underline-from-right">Cursos</a></li>
+			<li><a href="#" class="hvr-underline-from-right">Cursos</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Preguntame algo</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Contacto</a></li>
 			
@@ -37,6 +38,16 @@
             <div class="contenido wrapper inicio iniciox">
         <h1>sdfsdaf</h1>
 <p>DSFASDFdfgsdfgsdfgsdfgdfsgsdfgdsfgdfsg</p>
+<hr>
+        <h1>sdfsdaf</h1>
+<p>DSFASDFdfgsdfgsdfgsdfgdfsgsdfgdsfgdfsg</p>
+<hr>
+        <h1>sdfsdaf</h1>
+<p>DSFASDFdfgsdfgsdfgsdfgdfsgsdfgdsfgdfsg</p>
+<hr>
+        <h1>sdfsdaf</h1>
+<p>DSFASDFdfgsdfgsdfgsdfgdfsgsdfgdsfgdfsg</p>
+<hr>
     </div>
     </div>
 </section>
