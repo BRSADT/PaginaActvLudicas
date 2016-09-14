@@ -10,17 +10,21 @@
 
 
 <header>
+
 <div class="grad-nex">
 
 <p>haga                            paro                                  profe :'v</p>
 </div>
 	<nav>
 		<ul>
-			<li><a href="#">Inicio</a></li>
-			<li><a href="#">Tutoriales</a></li>
-			<li><a href="#">Cursos</a></li>
+	<div class="efectos">	
+	
+			<li><a  href="#" class="hvr-grow" >Inicio</a></li>
+			<li><a href="#" class="hvr-float">Tutoriales</a></li>
+			<li><a href="#" class="hvr-wobble-to-bottom-right">Cursos</a></li>
 			<li><a href="#">Preguntame algo</a></li>
 			<li><a href="#">Contacto</a></li>
+			</div>
 		</ul>
 	</nav>
 </header>
