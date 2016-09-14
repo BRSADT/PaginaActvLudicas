@@ -24,6 +24,11 @@
 	
 			<li><a  href="ActvLudicas.php" class="hvr-underline-from-right" >Inicio</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Tutoriales</a></li>
+			<ul class="dropdown-content">>
+<li><a href""> Matematicas </a> </li>
+<li><a href""> Fisica </a> </li>
+<li><a href""> Español </a> </li>
+</ul>
 			<li><a href="cursos.php" class="hvr-underline-from-right">Cursos</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Preguntame algo</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Contacto</a></li>
