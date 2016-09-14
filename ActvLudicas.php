@@ -10,9 +10,9 @@
 
 
 <header>
-<input type="email" placeholder="jane@firefly.com">
-<span class="classy">Here's a span with some text.</span>
-<span class="classy">Here's a span with some text.</span>
+
+<span class="classy"><input type="email" placeholder="Correo Electronico"></span>
+<span class="classy"><input type="email" placeholder="Contraseña"></span>
 <p> </p>
 
 

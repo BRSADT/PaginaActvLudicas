@@ -70,12 +70,10 @@ nav ul li a {
 :-ms-input-placeholder { /* IE 10+ */
   color: pink;
 }
-input[type="email"].big-dog::-webkit-input-placeholder {
-  color: orange;
-}
+
 
 span.classy {
-background-color: #e2e2f9;
+background-color: 	#696969;
 border: 2px solid #bebde9;
 color:black;
 float: right;
