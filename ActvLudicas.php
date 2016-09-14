@@ -22,7 +22,7 @@
 			<li><a  href="#" class="hvr-grow" >Inicio</a></li>
 			<li><a href="#" class="hvr-float">Tutoriales</a></li>
 			<li><a href="#" class="hvr-wobble-to-bottom-right">Cursos</a></li>
-			<li><a href="#">Preguntame algo</a></li>
+			<li><a href="#" class="hvr-icon-push">Preguntame algo</a></li>
 			<li><a href="#">Contacto</a></li>
 			</div>
 		</ul>
