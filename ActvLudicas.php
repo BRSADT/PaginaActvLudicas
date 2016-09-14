@@ -42,6 +42,7 @@
             <div class="contenido wrapper inicio iniciox">
         <h1>sdfsdaf</h1>
 <p>DSFASDFdfgsdfgsdfgsdfgdfsgsdfgdsfgdfsg</p>
+<a href="ventas.php" class="boton">Comprar</a>
     </div>
     </div>
 </section>

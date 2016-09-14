@@ -124,6 +124,16 @@ margin-top: 10px;
 margin-right:80px;
 }
 
+.boton{
+      color: #F05F40;
+  background-color: white;
+    padding: 15px 30px;
+      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  border: none;
+  border-radius: 300px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
 
 p.content-box-purple {
 background-color: #e2e2f9;
