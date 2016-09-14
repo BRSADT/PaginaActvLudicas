@@ -10,14 +10,13 @@
 
 
 <header>
-<div class="ingresar" 
-<p> holo </p>
+<input type="email" placeholder="jane@firefly.com">
+<span class="classy">Here's a span with some text.</span>
+<span class="classy">Here's a span with some text.</span>
+<p> </p>
 
-</div>
+
 <div class="grad-nex">
-
-
-<p>haga                            paro                                  profe :'v</p>
 </div>
 	<nav>
 		<ul>

@@ -18,14 +18,7 @@ div.primer{
 }
 
 
-div.ingresar{
-    display: block;
-    height: 30px;
-    width: 100%;
-  
 
-
-}
 
 
 div.grad-nex {
@@ -33,6 +26,7 @@ div.grad-nex {
     height: 2px;
     width: 100%;
   
+margin-top: 40px;
 	 background-image: url("linea.png");
 
 }
@@ -46,12 +40,14 @@ header {
   width: 100%;
   position: fixed;
   z-index: 1000;
-  height: 74px;
+  height: auto;
 }
 
 nav {
   float: left; /* Desplazamos el nav hacia la izquierda */
-}
+
+margin-top: 5px;
+  }
  
 nav ul {
   list-style: none;
@@ -70,6 +66,29 @@ nav ul li a {
   color: #fff;
   text-decoration: none;
   
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: pink;
+}
+input[type="email"].big-dog::-webkit-input-placeholder {
+  color: orange;
+}
+
+span.classy {
+background-color: #e2e2f9;
+border: 2px solid #bebde9;
+color:black;
+float: right;
+margin-top: 5px;
+margin-right:20px;
+}
+
+
+p.content-box-purple {
+background-color: #e2e2f9;
+border: 1px solid #bebde9;
+color:red;
+
 }
  
 a:hover{
