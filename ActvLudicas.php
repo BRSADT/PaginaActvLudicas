@@ -40,6 +40,14 @@
     </div>
     </div>
 </section>
+    <section class="contenido wrapper">
+    <div class="contenido wrapper contacto">
+            <div class="contenido wrapper inicio contacto">
+        <h1>Hola</h1>
+<p>No nos llame por favor :3</p>
+    </div>
+    </div>
+</section>
 
 </body>
 

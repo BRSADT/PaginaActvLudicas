@@ -138,7 +138,6 @@ color:blue;
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background: gray;
   text-align: center;
   color: black;
 }
@@ -148,6 +147,7 @@ color:blue;
   text-align: center;
   padding: 100px 15px 100px;
   width: 100%;
+  background: gray;
 
 }
 
@@ -165,7 +165,28 @@ color:blue;
   margin-bottom: 50px;
 }
 
+.contenido .contacto{
+      position: relative;
+  text-align: center;
 
+  width: 100%;
+  background: black;
+        color: white;
+}
+
+.contenido .contacto .contactox h1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 30px;
+}
+.contenido .contacto .contactox p {
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  margin-bottom: 50px;
+}
 
 .wrapper {
   width: 100%;
