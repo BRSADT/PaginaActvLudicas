@@ -19,21 +19,26 @@
 <div class="grad-nex">
 </div>
 	<nav>
-		<ul>
-	
+	<ul id="menu">
 	
 			<li><a  href="ActvLudicas.php" class="hvr-underline-from-right" >Inicio</a></li>
-			<li><a href="#" class="hvr-underline-from-right">Tutoriales</a></li>
-			<ul class="dropdown-content">>
-<li><a href""> Matematicas </a> </li>
-<li><a href""> Fisica </a> </li>
-<li><a href""> Español </a> </li>
+		
+<ul class="dropdown-content">
+<p>dsad</p>
+<li><a href"#"> Mision </a> </li>
+<li><a href"#"> vision </a> </li>
+<li><a href"#"> Valores </a> </li>
 </ul>
+
+
+		<li><a href="#" class="hvr-underline-from-right">Tutoriales</a></li>
+			
 			<li><a href="cursos.php" class="hvr-underline-from-right">Cursos</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Preguntame algo</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Contacto</a></li>
 			
 		</ul>
+		
 	</nav>
 </header>
 
