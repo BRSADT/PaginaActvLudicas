@@ -138,7 +138,7 @@ color:blue;
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('leapmotion.jpg');
+  background: gray;
   text-align: center;
   color: black;
 }
