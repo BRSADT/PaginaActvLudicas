@@ -17,6 +17,17 @@ div.primer{
 
 }
 
+
+div.ingresar{
+    display: block;
+    height: 30px;
+    width: 100%;
+  
+
+
+}
+
+
 div.grad-nex {
     display: block;
     height: 2px;
@@ -51,12 +62,12 @@ nav ul {
 nav ul li {
   float: left;
   font-family: Arial, sans-serif;
-  font-size: 16px;
+  font-size: 13px;
 }
  
 nav ul li a {
   display: block; /* Convertimos los elementos a en elementos bloque para manipular el padding */
-  padding: 20px;
+  padding: 15px;
   color: #fff;
   text-decoration: none;
   
@@ -75,11 +86,7 @@ color:blue;
 
 
 
-nav ul  li:hover {
-  background: #3ead48;
-   text-decoration: none;
 
-}
 
 
 

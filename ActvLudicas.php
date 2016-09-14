@@ -10,21 +10,25 @@
 
 
 <header>
+<div class="ingresar" 
+<p> holo </p>
 
+</div>
 <div class="grad-nex">
+
 
 <p>haga                            paro                                  profe :'v</p>
 </div>
 	<nav>
 		<ul>
-	<class="hvr-bounce-to-bottom">	
+	
 	
 			<li><a  href="#" class="hvr-underline-from-right" >Inicio</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Tutoriales</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Cursos</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Preguntame algo</a></li>
 			<li><a href="#" class="hvr-underline-from-right">Contacto</a></li>
-			</div>
+			
 		</ul>
 	</nav>
 </header>
