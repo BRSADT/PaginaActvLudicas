@@ -17,13 +17,13 @@
 </div>
 	<nav>
 		<ul>
-	<div class="efectos">	
+	<class="hvr-bounce-to-bottom">	
 	
-			<li><a  href="#" class="hvr-grow" >Inicio</a></li>
-			<li><a href="#" class="hvr-float">Tutoriales</a></li>
-			<li><a href="#" class="hvr-wobble-to-bottom-right">Cursos</a></li>
-			<li><a href="#" class="hvr-icon-push">Preguntame algo</a></li>
-			<li><a href="#">Contacto</a></li>
+			<li><a  href="#" class="hvr-underline-from-right" >Inicio</a></li>
+			<li><a href="#" class="hvr-underline-from-right">Tutoriales</a></li>
+			<li><a href="#" class="hvr-underline-from-right">Cursos</a></li>
+			<li><a href="#" class="hvr-underline-from-right">Preguntame algo</a></li>
+			<li><a href="#" class="hvr-underline-from-right">Contacto</a></li>
 			</div>
 		</ul>
 	</nav>
