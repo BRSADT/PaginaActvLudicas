@@ -3,6 +3,7 @@
 <head>
   <title>Un proyecto sin Nombre</title>
   <link rel="stylesheet" href="Estilos.css">
+   <meta charset="UTF-8">
 </head>
 
 <body>
@@ -11,8 +12,8 @@
 
 <header>
 
+<span class="classy"><INPUT type="text" placeholder="Contraseña"></span>
 <span class="classy"><input type="email" placeholder="Correo Electronico"></span>
-<span class="classy"><<INPUT type="text" STYLE="color: #FFFFFF; font-family: Verdana; font-weight: bold; font-size: 12px; background-color: #72A4D2;" size="10" maxlength="30">></span>
 <p> </p>
 
 
@@ -30,6 +31,7 @@
 			
 		</ul>
 	</nav>
+	<img id="destacada" src="logo.png" />	
 </header>
 
 <section class="contenido wrapper">
@@ -37,24 +39,28 @@
             <div class="contenido wrapper venta ventax">
         <h1>Producto 1</h1>
 <p>$100</p>
-<IMG SRC="leapmotion.jpg">
+<IMG SRC="leapmotion.jpg" width=500px>
 <hr>
         <h1>Producto 2</h1>
 <p>$200</p>
-<IMG SRC="leap.png">
+<IMG SRC="leap.png" width=500px>
 <hr>
         <h1>Producto 3</h1>
 <p>$300</p>
-<IMG SRC="marcianito.gif">
+<IMG SRC="marcianito.gif" width=500px>
 <hr>
+
     </div>
     </div>
 </section>
-    <section class="contenido wrapper">
+
+
+     <section class="contenido wrapper">
     <div class="contenido wrapper contacto">
             <div class="contenido wrapper inicio contacto">
-        <h1>Hola</h1>
-<p>No nos llame por favor :3</p>
+        <h1></h1>
+<p>Contacto:<br>
+carlos_rc97@outlook.es <br> brendasamant@hotmail.com</p>
     </div>
     </div>
 </section>
