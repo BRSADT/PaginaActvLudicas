@@ -34,22 +34,39 @@
 	<img id="destacada" src="logo.png" />	
 </header>
 
+
+
 <section class="contenido wrapper">
     <div class="contenido wrapper venta">
             <div class="contenido wrapper venta ventax">
-        <h1>Producto 1</h1>
+
+<div class="hvr-bounce-to-bottom">
+			<h1>Producto 1</h1>
+			</div>
 <p>$100</p>
+
+
+<div class="hvr-grow">
 <IMG SRC="leapmotion.jpg" width=500px>
+</div>
 <hr>
         <h1>Producto 2</h1>
 <p>$200</p>
-<IMG SRC="leap.png" width=500px>
+
+
+<div class="hvr-wobble-to-bottom-right">
+<IMG  SRC="leap.png" width=500px />
+</div>
+
+
 <hr>
         <h1>Producto 3</h1>
 <p>$300</p>
+<div class="hvr-float">
 <IMG SRC="marcianito.gif" width=500px>
+</div>
 <hr>
-
+   
     </div>
     </div>
 </section>

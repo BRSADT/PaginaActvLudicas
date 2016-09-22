@@ -88,11 +88,11 @@
 </section>
     <section class="contenido wrapper">
     <div class="contenido wrapper contacto">
-            <div class="contenido wrapper inicio contacto">
+            
         <h1></h1>
 <p>Contacto:<br>
 carlos_rc97@outlook.es <br> brendasamant@hotmail.com</p>
-    </div>
+   
     </div>
 </section>
 

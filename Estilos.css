@@ -169,7 +169,7 @@ margin-right:80px;
 
 .boton{
       color: #F05F40;
-  background-color: white;
+  background-color: red;
     padding: 15px 30px;
       font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   border: none;
@@ -181,7 +181,7 @@ margin-right:80px;
 p.content-box-purple {
 background-color: #e2e2f9;
 border: 1px solid #bebde9;
-color:red;
+color:black;
 
 }
  
@@ -221,7 +221,7 @@ color:blue;
   padding: 100px 15px 100px;
   width: 100%;
   background: gray;
-
+height: 80%;
 }
 
 .contenido .inicio .iniciox h1 {
@@ -263,11 +263,13 @@ color:blue;
 .contenido .contacto{
       position: relative;
   text-align: center;
-
+  height: 20%;
   width: 100%;
   background: black;
         color: white;
 }
+
+
 
 .contenido .contacto .contactox h1 {
   font-weight: 700;
@@ -284,8 +286,7 @@ color:blue;
 }
 
 .wrapper {
-  width: 100%;
-  margin: auto;
+
   overflow:hidden;
 }
 
@@ -490,6 +491,7 @@ color:blue;
 
 
 .hvr-bounce-to-bottom {
+
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: translateZ(0);
